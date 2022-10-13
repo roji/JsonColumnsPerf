@@ -1,0 +1,21 @@
+{
+  "IsActive": true,
+  "Address": {
+    "City": "Camberwick Green",
+    "Country": "UK",
+    "Postcode": "CW1 5ZH",
+    "Street": "1 Main St"
+  },
+  "PhoneNumbers": [
+    {
+      "CountryCode": 44,
+      "Number": "01632 12345",
+      "Type": "Home"
+    },
+    {
+      "CountryCode": 44,
+      "Number": "01632 72345",
+      "Type": "Mobile"
+    }
+  ]
+}
